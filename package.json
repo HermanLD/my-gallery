@@ -1,0 +1,31 @@
+{
+  "name": "my-gallery",
+  "version": "1.0.0",
+  "description": "User Image Gallery",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --env=dev --open",
+    "build": "webpack --env=prod"
+  },
+  "keywords": [],
+  "author": "Herman Dardon",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.0.0",
+    "clean-webpack-plugin": "^3.0.0",
+    "css-loader": "^4.3.0",
+    "file-loader": "^6.1.0",
+    "html-loader": "^1.3.0",
+    "html-webpack-plugin": "^4.4.1",
+    "image-webpack-loader": "^7.0.1",
+    "inline-source-map": "^0.6.2",
+    "mini-css-extract-plugin": "^0.11.2",
+    "optimize-css-assets-webpack-plugin": "^5.0.4",
+    "postcss": "^8.0.5",
+    "postcss-loader": "^4.0.2",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
