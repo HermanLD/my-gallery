@@ -124,7 +124,6 @@ ul { list-style: none; }
 
 @media (min-width: 901px) {
   :root {
-    /* --base-625: 87.5%; */
     --base-625: 94%;
   }
 }
