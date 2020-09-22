@@ -62,16 +62,7 @@ module.exports = (env) => {
             {
               loader: "image-webpack-loader",
               options: {
-                disable: isProd ? false : true,
-                mozjpeg: {
-                  enable: false,
-                },
-                pngquant: {
-                  enable: false,
-                },
-                gifsicle: {
-                  enable: false,
-                },
+                disable: isProd ? false : true
               }
             }
           ],
