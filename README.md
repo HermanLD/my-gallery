@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://res.cloudinary.com/nimbus8/image/upload/v1600814883/my-gallery.vercel.app__jzasuz.png)
+![screenshot](https://res.cloudinary.com/nimbus8/image/upload/v1600814883/portfolio/my-gallery.vercel.app__jzasuz.png)
 
 In this project the main goals were to build with webpack and practice CSS.
 
@@ -44,9 +44,9 @@ In this project the main goals were to build with webpack and practice CSS.
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [HTML]("")
-- [CSS]("")
 - [Webpack](https://webpack.js.org/)
+- HTML
+- CSS
 
 ## Features
 
@@ -66,4 +66,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [hermandardon.dev](https://hermandardon.dev)
 - GitHub [@HermanLD](https://github.com/HermanLD)
+- linkedIn [herman-dardon](https://www.linkedin.com/in/herman-dardon/)
 - Twitter [@DardonHerman](https://twitter.com/DardonHerman)
